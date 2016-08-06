@@ -1,0 +1,29 @@
+_repo: The-Anti-Slavery-Harp--A-Collection-of-Songs-for-Anti-Slavery-Meetings_10448
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Brown, William Wells
+    aliases:
+    - Brown, W. Wells (William Wells)
+    - Brown, Wm. Wells (William Wells)
+    deathdate: 1884
+    gutenberg_agent_id: '135'
+    url: http://www.gutenberg.org/2009/agents/135
+    wikipedia: http://en.wikipedia.org/wiki/William_Wells_Brown
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States -- Poetry'
+- !lcsh 'Antislavery movements -- Songs and music'
+- GITenberg
+title: 'The Anti-Slavery Harp: A Collection of Songs for Anti-Slavery Meetings'
+url: http://www.gutenberg.org/ebooks/10448
